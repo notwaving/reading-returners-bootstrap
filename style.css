@@ -5,11 +5,16 @@ html, body {
   width: 100%;
   font-family: Poppins, sans-serif;
   color: #222;
+  
 }
 .jumbotron {
   padding: 1rem;
   border-radius: 0;
+  /* max-width: 100%;
+  margin: 0px auto; */
 }
+
+
 
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
