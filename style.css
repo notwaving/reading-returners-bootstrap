@@ -8,6 +8,9 @@ html, body {
   text-align: center;
   font-size: 1rem;
 }
+body{
+  background-image: url();
+}
 .padding{
   padding-bottom: 2rem;
 }
