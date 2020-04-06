@@ -41,6 +41,16 @@ table {
   text-align: left;
 }
 
+.btn-outline-success {
+  color: #6648b1;
+  border: 1px solid #6648b1;
+}
+
+.btn-outline-success:hover {
+  background-color: #563d7c;
+  border: 1px solid #563d7c;
+}
+
 /* Media Queries */
 
 @media (min-width: 768px) {
