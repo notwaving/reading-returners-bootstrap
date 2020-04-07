@@ -41,6 +41,10 @@ table {
   text-align: left;
 }
 
+.archive-button {
+  margin-bottom: 2.5rem;
+}
+
 .btn-outline-success {
   color: #6648b1;
   border: 1px solid #6648b1;
