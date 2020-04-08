@@ -17,7 +17,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   /* Photo by Iñaki del Olmo on Unsplash */
-  
 }
 .padding {
   padding-bottom: 2rem;
@@ -88,7 +87,7 @@ table {
   }
   .input-group {
     width: 50%;
-    margin 0 auto;
+    margin: 0 auto;
   }
 }
 
